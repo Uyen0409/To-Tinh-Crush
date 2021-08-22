@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Lúc nhỏ thì thích trung thu😙 ',                                                                                                                 
             'Lớn lên lại muốn thu này with😘 ',
     mess: 'E biết ngay mà 🥰. Yêu a lắm lun 😘😘',
-    btnAccept: 'Quá là sến lun <3',
+    btnAccept: 'Quá là sến lun <3,
   
 }
