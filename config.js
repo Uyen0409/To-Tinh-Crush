@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Anh ới ời ơi❤️!',
+    introDesc: `E thích những thứ lấp lánh
+                Thích cả matcha xanh
+                Quên chưa nói anh bít
+                EM cx cực thích anh❤️`,
+    btnIntro: 'Tiếp nè',
+    title: ' Iu thì iuu mà không iu cx phải yêu <3333333🥰',
+    desc: ' Thử ko iu -.-! Bắn á ',
+    btnYes: 'Hơi bị thích ó <33',
+    btnNo: ' Bị mơ à :3',
+    question:'Cho xin nhẹ cái lí do <3',
+    btnReply: 'Gửi cho bé <3',
+    reply: 'Lúc nhỏ thì thích trung thu😙 ',                                                                                                                 
+            'Lớn lên lại muốn thu này with😘 ',
+    mess: 'E biết ngay mà 🥰. Yêu a lắm lun 😘😘',
+    btnAccept: 'Quá là sến lun <3',
+    messLink: 'https://www.facebook.com/uyenlun0409' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
